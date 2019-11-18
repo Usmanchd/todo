@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myfirstgit/static/css/main.a2a62116.chunk.css",
-    "main.js": "/myfirstgit/static/js/main.92f4ba8e.chunk.js",
-    "main.js.map": "/myfirstgit/static/js/main.92f4ba8e.chunk.js.map",
-    "runtime-main.js": "/myfirstgit/static/js/runtime-main.8109c5b3.js",
-    "runtime-main.js.map": "/myfirstgit/static/js/runtime-main.8109c5b3.js.map",
-    "static/js/2.14b7821e.chunk.js": "/myfirstgit/static/js/2.14b7821e.chunk.js",
-    "static/js/2.14b7821e.chunk.js.map": "/myfirstgit/static/js/2.14b7821e.chunk.js.map",
-    "index.html": "/myfirstgit/index.html",
-    "precache-manifest.9f009ec467f6592ecf30eb4621b3c2d5.js": "/myfirstgit/precache-manifest.9f009ec467f6592ecf30eb4621b3c2d5.js",
-    "service-worker.js": "/myfirstgit/service-worker.js",
-    "static/css/main.a2a62116.chunk.css.map": "/myfirstgit/static/css/main.a2a62116.chunk.css.map"
+    "main.css": "/todo/static/css/main.a2a62116.chunk.css",
+    "main.js": "/todo/static/js/main.dbbc703b.chunk.js",
+    "main.js.map": "/todo/static/js/main.dbbc703b.chunk.js.map",
+    "runtime-main.js": "/todo/static/js/runtime-main.b2d889d6.js",
+    "runtime-main.js.map": "/todo/static/js/runtime-main.b2d889d6.js.map",
+    "static/js/2.14b7821e.chunk.js": "/todo/static/js/2.14b7821e.chunk.js",
+    "static/js/2.14b7821e.chunk.js.map": "/todo/static/js/2.14b7821e.chunk.js.map",
+    "index.html": "/todo/index.html",
+    "precache-manifest.e17f96f4284479cb09b9990e7c6d4b3b.js": "/todo/precache-manifest.e17f96f4284479cb09b9990e7c6d4b3b.js",
+    "service-worker.js": "/todo/service-worker.js",
+    "static/css/main.a2a62116.chunk.css.map": "/todo/static/css/main.a2a62116.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8109c5b3.js",
+    "static/js/runtime-main.b2d889d6.js",
     "static/js/2.14b7821e.chunk.js",
     "static/css/main.a2a62116.chunk.css",
-    "static/js/main.92f4ba8e.chunk.js"
+    "static/js/main.dbbc703b.chunk.js"
   ]
 }
