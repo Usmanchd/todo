@@ -5,10 +5,10 @@ import './App.css';
 function App() {
   const [todoValue, settodoValue] = useState('');
   const [todolist, settodolist] = useState([
-    {
-      todoValue: 'hey',
-      class: 'list through'
-    }
+    // {
+    //   todoValue: 'hey',
+    //   class: 'list through'
+    // }
   ]);
 
   // const handleEnter = () => {
