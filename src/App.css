@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+.App {
+  text-align: center;
+  white-space: wrap;
+}
+
+.todo {
+  width: 30%;
+  margin: 0px auto;
+  /* border: 1px solid #777; */
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.61);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.61);
+  border-radius: 5px;
+  background-color: white;
+}
+
+.inputtag {
+  padding: 15px 0px;
+}
+
+input[type='text'] {
+  border: none;
+  width: 50%;
+  border-bottom: 1.2px solid #777;
+  padding: 8px;
+  transition: all 0.2s ease-in-out;
+  margin-bottom: 15px;
+}
+
+input[type='text']:focus {
+  outline: none;
+  width: 68%;
+}
+
+.todolist {
+  border-top: 0.3px solid #777;
+  width: 100%;
+  min-height: 65vh;
+}
+
+.delBtn {
+  margin: 5px;
+  background: none;
+  padding: 5px 15px;
+  border: 0.7px solid #777;
+  align-self: center;
+  margin-right: 12px;
+}
+.delBtn:hover {
+  background-color: rgb(59, 59, 59);
+  color: white;
+  border-color: white;
+}
+
+.list {
+  text-align: left;
+  width: 80%;
+  cursor: pointer;
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-left: 12px;
+}
+.through {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.flex {
+  background-color: rgba(161, 159, 159, 0.534);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
